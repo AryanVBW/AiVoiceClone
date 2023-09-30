@@ -1,4 +1,9 @@
-# Real-Time Voice Cloning
+
+<p align="center">
+<img src="https://github.com/AryanVBW/kali-Linux-Android/releases/download/1/removebackground.png" height="150"><br>
+ A digital copy of someone's voice using AI-powered deep learning technology, powered by AryanVBW
+</p>
+
 This repository is an implementation of [Transfer Learning from Speaker Verification to
 Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558.pdf) (SV2TTS) with a vocoder that works in real-time. This was my [master's thesis](https://matheo.uliege.be/handle/2268.2/6801).
 
